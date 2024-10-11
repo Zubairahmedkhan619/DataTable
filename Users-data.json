@@ -1,0 +1,158 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "submittedBy": "Leanne Graham",
+        "company": "Romaguera-Crona",
+        "department": "Sales",
+        "role": "Manager",
+        "managementApproved": true,
+        "status": "Active",
+        "assignee": "John Doe",
+        "creationDate": "2023-10-01"
+      },
+      {
+        "id": 2,
+        "submittedBy": "Ervin Howell",
+        "company": "Romaguera-Jacobson",
+        "department": "Marketing",
+        "role": "Executive",
+        "managementApproved": false,
+        "status": "Pending",
+        "assignee": "Jane Smith",
+        "creationDate": "2023-10-02"
+      },
+      {
+        "id": 3,
+        "submittedBy": "Clementine Bauch",
+        "company": "Romaguera-Crona",
+        "department": "HR",
+        "role": "Recruiter",
+        "managementApproved": true,
+        "status": "Active",
+        "assignee": "Alice Johnson",
+        "creationDate": "2023-10-03"
+      },
+      {
+        "id": 4,
+        "submittedBy": "Patricia Lebsack",
+        "company": "Robel-Corkery",
+        "department": "Finance",
+        "role": "Analyst",
+        "managementApproved": false,
+        "status": "Inactive",
+        "assignee": "Robert Brown",
+        "creationDate": "2023-10-04"
+      },
+      {
+        "id": 5,
+        "submittedBy": "Chelsey Dietrich",
+        "company": "Keebler LLC",
+        "department": "IT",
+        "role": "Developer",
+        "managementApproved": true,
+        "status": "Active",
+        "assignee": "Emily Davis",
+        "creationDate": "2023-10-05"
+      },
+      {
+        "id": 6,
+        "submittedBy": "Mrs. Dennis Schulist",
+        "company": "Considine-Lockman",
+        "department": "Sales",
+        "role": "Sales Associate",
+        "managementApproved": false,
+        "status": "Pending",
+        "assignee": "Michael Smith",
+        "creationDate": "2023-10-06"
+      },
+      {
+        "id": 7,
+        "submittedBy": "Kurtis Weissnat",
+        "company": "Frami LLC",
+        "department": "Marketing",
+        "role": "Marketing Specialist",
+        "managementApproved": true,
+        "status": "Active",
+        "assignee": "Sara Wilson",
+        "creationDate": "2023-10-07"
+      },
+      {
+        "id": 8,
+        "submittedBy": "Nicholas Runolfsdottir V",
+        "company": "Romaguera-Jacobson",
+        "department": "Support",
+        "role": "Support Specialist",
+        "managementApproved": false,
+        "status": "Inactive",
+        "assignee": "Kevin Lee",
+        "creationDate": "2023-10-08"
+      },
+      {
+        "id": 9,
+        "submittedBy": "Glenna Reichert",
+        "company": "Crona Inc",
+        "department": "Engineering",
+        "role": "Engineer",
+        "managementApproved": true,
+        "status": "Active",
+        "assignee": "Laura Taylor",
+        "creationDate": "2023-10-09"
+      },
+      {
+        "id": 10,
+        "submittedBy": "Katelyn O'Conner",
+        "company": "Yost Group",
+        "department": "Operations",
+        "role": "Operations Manager",
+        "managementApproved": false,
+        "status": "Pending",
+        "assignee": "Joshua Martin",
+        "creationDate": "2023-10-10"
+      },
+      {
+        "id": 11,
+        "submittedBy": "zubair Ahmed Khan",
+        "company": "Romaguera-Crona",
+        "department": "IT",
+        "role": "Manager",
+        "managementApproved": true,
+        "status": "Active",
+        "assignee": "John Doe",
+        "creationDate": "2023-10-01"
+      },
+      {
+        "id": 12,
+        "submittedBy": "Sharfudheen",
+        "company": "Romaguera-Crona",
+        "department": "IT",
+        "role": "Manager",
+        "managementApproved": true,
+        "status": "Active",
+        "assignee": "John Doe",
+        "creationDate": "2023-10-01"
+      },
+      {
+        "id": 13,
+        "submittedBy": "Farhan Ismail",
+        "company": "Romaguera-Crona",
+        "department": "IT",
+        "role": "Manager",
+        "managementApproved": true,
+        "status": "Active",
+        "assignee": "John Doe",
+        "creationDate": "2023-10-01"
+      },
+      {
+        "id": 14,
+        "submittedBy": "Rammah Mohammed",
+        "company": "Romaguera-Crona",
+        "department": "IT",
+        "role": "Manager",
+        "managementApproved": true,
+        "status": "Active",
+        "assignee": "John Doe",
+        "creationDate": "2023-10-01"
+      }
+    ]
+  }

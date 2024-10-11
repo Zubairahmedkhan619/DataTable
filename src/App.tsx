@@ -111,7 +111,7 @@ function DataTable() {
   const { data: userData, isLoading, error } = useQuery<ApiResponse, Error>({
     queryKey: ['users'],
     queryFn: async () => {
-      const response = await fetch('https://mocki.io/v1/fe97fc4a-635f-4c07-adbf-729392b28e34');
+      const response = await fetch('https://mocki.io/v1/cf27d3ed-2e11-4568-85c5-e41983af62e6');
       if (!response.ok) {
         throw new Error('Network response was not ok');
       }
